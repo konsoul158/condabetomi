@@ -1,0 +1,21 @@
+table.toast_table {
+    table-layout: fixed;
+    width: 1550px;
+    border: 1px solid rgb(0, 0, 0);
+    margin-left: 80px;
+    margin-bottom: 10px;
+  }
+
+td.toast_table {
+    border: 1px solid rgb(0, 0, 0);
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+td.toast_table_king{
+  table-layout: fixed;
+  border: 1px solid rgb(0, 0, 0);
+  margin-left: 80px;
+  background-image: linear-gradient(rgb(235, 228, 168), rgb(189, 175, 54));
+}
