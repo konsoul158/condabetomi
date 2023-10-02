@@ -19,3 +19,12 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## Main page
+![Main](https://github.com/konsoul158/condabetomi/assets/78017741/545aed01-9b2f-4d4d-b5e3-792b90fd1800)
+
+## Voting
+![Voting](https://github.com/konsoul158/condabetomi/assets/78017741/b40d62ef-4c9d-4818-a28a-cf5d47beca33)
+
+## Results
+![Results](https://github.com/konsoul158/condabetomi/assets/78017741/dc9888e0-9b1d-477d-8de8-2214e78a9da8)
